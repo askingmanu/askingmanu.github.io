@@ -1,7 +1,7 @@
 title: AskingManu
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ceci est le site web du projet AskingManu, où vous pouvez trouver des informations et des mises à jour sur notre projet.
+  Ceci est le site web du projet AsKingManu, où vous pouvez trouver des informations et des mises à jour sur le projet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: votre_nom_utilisateur_twitter
