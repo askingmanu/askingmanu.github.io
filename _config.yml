@@ -1,11 +1,11 @@
 title: AskingManu
-email: your-email@example.com
+email: thundermissed@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ceci est le site web du projet AsKingManu, où vous pouvez trouver des informations et des mises à jour sur le projet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: votre_nom_utilisateur_twitter
-github_username:  votre_nom_utilisateur_github
+# twitter_username: votre_nom_utilisateur_twitter
+github_username:  askingmanu
 
 # Build settings
 theme: minima
